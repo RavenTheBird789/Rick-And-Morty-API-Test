@@ -1,4 +1,4 @@
-# Rick-And-Morty-API-Test
+# Rick-And-Morty-API
 Python program using a REST API to pull information from a website about Rick and Morty characters and return the information to the user in a specific format
 
 To install, simply type "git clone https://github.com/RavenTheBird789/Rick-And-Morty-API-Test" in your terminals command line
